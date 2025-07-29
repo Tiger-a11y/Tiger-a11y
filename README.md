@@ -33,10 +33,21 @@
 </p>
 
 ---
+### 🧩 Freelance Projects Portfolio
 
-### ⚙️ Languages and Tools
+Here’s a snapshot of real-world freelance projects I’ve delivered across Backend, DevOps, and Testing scopes:
+
+
+| 🧠 Project       | 💻 Tech Stack & Tools                                                                                                                                     | 📌 Responsibilities                                                                                          | 🚀 Deployment |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------|
+| **Quick Connect** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2C2E3E?style=flat&logo=playwright&logoColor=green) | 🔹 Backend APIs using NestJS<br>🔹 MongoDB data modeling<br>🔹 Frontend with React<br>🔹 GitHub Actions CI/CD<br>🔹 UI Testing with Playwright | ✔️ |
+| **GoHive**        | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | 🔹 Complete backend ownership<br>🔹 PostgreSQL database setup<br>🔹 GitHub Actions pipelines<br>🔹 Cloud deployment & monitoring on AWS | ✔️ |
+| **Gramunnati**    | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | 🔹 Infrastructure setup with Terraform<br>🔹 Jenkins CI/CD pipelines<br>🔹 Shell scripting automation<br>🔹 QA Test execution & monitoring | ✔️ |
+| **4M India**      | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) | 🔹 Backend features in Node.js<br>🔹 Unit & Integration Testing (Jest)<br>🔹 GitHub Actions CI/CD<br>🔹 Deployment to AWS infrastructure | ✔️ |
 
 ---
+
+### ⚙️ Languages and Tools
 
 #### ☁️ Cloud & DevOps Tools
 <p align="left"> 
@@ -49,8 +60,6 @@
   <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/></a>
 </p>
 
----
-
 #### 🔧 CI/CD, Monitoring & Observability
 <p align="left">
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/></a>
@@ -58,8 +67,6 @@
   <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/></a>
   <a href="https://www.elastic.co/" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK Stack" width="50" height="50"/></a>
 </p>
-
----
 
 #### 🧪 Testing & QA Automation Tools
 <p align="left">
@@ -70,8 +77,6 @@
   <a href="https://fakerjs.dev/" target="_blank"><img src="https://fakerjs.dev/logo.svg" alt="Faker.js" width="50" height="50"/></a>
 </p>
 
----
-
 #### 💻 Programming & Scripting Languages
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/></a>
@@ -79,8 +84,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
 </p>
-
----
 
 #### 🌐 Web Servers, Infra & Version Control
 <p align="left">
@@ -91,14 +94,46 @@
 
 ---
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiger-a11y&show_icons=true&locale=en" alt="tiger-a11y" style="margin:20px;">
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiger-a11y" alt="tiger-a11y" style="margin:20px;">
-</p>
+### 📊 GitHub Stats & Developer Timeline
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=tiger-a11y&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="420" height="200" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiger-a11y&theme=tokyonight" alt="GitHub Streak" width="420" height="200" />
+    </td>
+  </tr>
+</table>
+
+<!-- Language Stats -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiger-a11y&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="420" height="200" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tiger-a11y&theme=tokyonight&utcOffset=5.5" alt="Commit Timing Stats" width="420" height="200" />
+    </td>
+  </tr>
+</table>
+
+<!-- Profile Details -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiger-a11y&theme=tokyonight" alt="Profile Summary" width="850" height="200" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 ## 🧰 Featured Projects & Automation Portfolio
