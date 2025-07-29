@@ -15,7 +15,7 @@
   [https://github.com/Tiger-a11y](https://github.com/Tiger-a11y)
 
 - 💬 **Ask me about:**  
-  DevOps, Cloud DevOps, and Infrastructure Automation
+  DevOps, Cloud Automation, End-to-End Test Automation (UI + API)
 
 - 📫 **Reach me at:**  
   [LinkedIn](https://linkedin.com/in/avinash-wagh101) | [Instagram](https://instagram.com/)
@@ -89,6 +89,28 @@
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK Stack" width="50" height="50"/> 
   </a>
 </p>
+
+---
+### 🤖 Testing & Automation Skills
+
+📅 UI Test Automation with Playwright & Selenium🔧 API Testing using REST, Postman🔎 POM Architecture, Regression & Smoke Suite Structuring📊 Real-Time Reporting using HTML / Allure🧰 CI/CD Integration via Jenkins & GitHub Actions🌐 Cross-browser & Responsive Testing🪧 Dynamic data generation using Faker.js
+
+* 🌐 Featured Project: Playwright Automation for AutomationExercise
+  - Project Name: playwright-automationexercise
+  - Tech Stack: Playwright, TypeScript, Faker.js
+  - Modules Covered: Auth, Product, Cart, Contact, Subscription, Search
+  - Features: Regression & Smoke tags, Module-specific CLI runs, CI/CD ready
+  - Repo: (https://github.com/Tiger-a11y/playwright-automationexercise)
+
+---
+
+### 🌐 Featured Project: 
+* 1. Playwright/Selenium Automation for AutomationExercise
+  - Project Name: playwright-automationexercise
+  - Tech Stack: Playwright, TypeScript, Faker.js
+  - Modules Covered: Auth, Product, Cart, Contact, Subscription, Search
+  - Features: Regression & Smoke tags, Module-specific CLI runs, CI/CD ready
+  - Repo: [Playwright Automation for AutomationExercise](https://github.com/Tiger-a11y/playwright-automationexercise)
 
 ---
 
